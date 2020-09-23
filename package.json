@@ -1,0 +1,64 @@
+{
+  "name": "la",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "author": {
+    "name": "Ishan Prasad"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "test:e2e": "vue-cli-service test:e2e",
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "@vue/cli": "^4.5.6",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "portal-vue": "^2.1.7",
+    "vue": "^2.6.12",
+    "vue-headful": "^2.1.0",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-e2e-nightwatch": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-unit-mocha": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/test-utils": "^1.0.3",
+    "babel-eslint": "^10.1.0",
+    "chai": "^4.1.2",
+    "chromedriver": "^84.0.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "_id": "la@1.0.0",
+  "bugs": {
+    "url": "https://github.com/ishanpsahota/la/issues"
+  },
+  "homepage": "https://github.com/ishanpsahota/la#readme",
+  "keywords": [
+    "vue",
+    "node"
+  ],
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishanpsahota/la.git"
+  }
+}

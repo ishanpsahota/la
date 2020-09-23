@@ -1,0 +1,11 @@
+body
+{
+    font-family: 'Quicksand', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.btn-orange
+{
+    background-color: #FF7F66;
+    border-radius: 35px;
+}
