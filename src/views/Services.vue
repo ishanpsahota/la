@@ -4,10 +4,10 @@
     <vue-headful :title="title" />
     <div class="row p-0 m-0 w-100 d-flex flex-md-row flex-column-reverse">
       <div class="col-md-6 col-12 px-5 m-auto">
-        <h3 class="heading text-center text-md-left font-weight-bold"> Digital Product Manager </h3>
-        <h2 class="text-center text-md-left font-weight-light "> Create a unique illustration for your website. </h2>
+        <h3 class="heading text-center text-md-left font-weight-bold"> Services </h3>
+        <h2 class="text-center text-md-left font-weight-light "> We provide a range of services. </h2>
         <p class="text-center text-md-left">
-          <button class="btn mt-5 btn-lg px-md-4 px-5  py-3 mx-auto btn-orange text-dark" type="button"> Get Started </button>
+          <button class="btn mt-5 btn-lg px-md-4 px-5  py-3 mx-auto btn-orange text-dark" type="button"> Know More </button>
         </p>
       </div>
       <div class="col-md-6 col-12 m-auto p-5 p-md-0 text-center">

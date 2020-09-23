@@ -3,3 +3,12 @@
     <router-view />
   </div>
 </template>
+
+<style >
+#app
+{
+  font-family: 'Quicksand', sans-serif;
+    scroll-behavior: smooth;
+}
+
+</style>

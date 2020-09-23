@@ -4,8 +4,8 @@
     <vue-headful :title="title" />
     <div class="row p-0 m-0 w-100 d-flex flex-md-row flex-column-reverse">
       <div class="col-md-6 col-12 px-5 m-auto">
-        <h3 class="heading text-center text-md-left font-weight-bold"> Digital Product Manager </h3>
-        <h2 class="text-center text-md-left font-weight-light "> Create a unique illustration for your website. </h2>
+        <h3 class="heading text-center text-md-left font-weight-bold"> About </h3>
+        <h2 class="text-center text-md-left font-weight-light "> We are a bunch of computer geeks <i class="fas text-orange fa-grin-wink    "></i> </h2>
         <p class="text-center text-md-left">
           <button class="btn mt-5 btn-lg px-md-4 px-5  py-3 mx-auto btn-orange text-dark" type="button"> Get Started </button>
         </p>
@@ -47,6 +47,11 @@ export default {
   {
     background-color: #FF7F66;
     border-radius: 35px;
+  }
+
+  .text-orange
+  {
+    color: #FF7F66;
   }
 
   .heading
